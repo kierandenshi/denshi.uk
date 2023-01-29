@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+published: false
 
 ---
 Hello, my name is Kieran Denshi and I'm an autodidact software developer from Lindfield, UK. 
