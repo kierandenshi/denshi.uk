@@ -13,13 +13,13 @@ TL;DR skip to [the solution](#solution)
 
 The broadband switched over mid week, so for the sake of keeping everyone working we just used [the supplied router](https://www.cable.co.uk/broadband/providers/now-broadband/routers/) until the weekend. Credit where it's due, this little box did not provide the horror show that some of the NowTV broadband forum posters had suggested - I found the range and speed acceptable and it is capable of dual band. The admin configuration pages are logically presented (almost as if actually designed for ease use rather than as an objective exercise in obfuscation). It does lack the ability to provide a guest network WAP however, which is a major dealbreaker as I need to be able to share my WAN connection without exposing my LAN connection to guest users<sup>1</sup>.
 
-Come Saturday and I'm settling in for an afternoon of no craic. A hour or so duck-ducking and I'm turning up:
+Come Saturday and I'm settling in for an afternoon of no craic. A half hour duck-ducking turns up:
 
 * "You have to connect with MER"
 * "You need a router that supports MPoA"
 * "You need a router that supports Option 61"
 
-Now I've neither the desire nor mental capability to become an expert in something I'll need to know about once every couple of years at most, so I've no shame admitting to having no idea what any of this means. Searches for "Netgear MPoA" and "Netgear MER" yielded nothing useful, with some forum posts going so far to suggest that flashing the Nighthawk to use non Netgear firmware would be necessary. However a search for "Netgear option 61" turned up [this Netgear KB article](https://kb.netgear.com/000062426/Which-NETGEAR-routers-support-DHCP-option-60-and-61), which suggested that the stock firmware was up to task. Here's my takeaway:
+Now, I've neither the desire nor mental capability to become an expert in something I'll need to know about once every couple of years at most, so I've no shame admitting to having no idea what any of this means. Searches for "Netgear MPoA" and "Netgear MER" yielded nothing useful, with some forum posts going so far to suggest that flashing the Nighthawk to use non Netgear firmware would be necessary. However a search for "Netgear option 61" turned up [this Netgear KB article](https://kb.netgear.com/000062426/Which-NETGEAR-routers-support-DHCP-option-60-and-61), which suggested that the stock firmware was up to task. Here's my takeaway:
 
 * The terms "MER" and "MPoA" are, in this context at least, irrelevant.
 * Out of the connection protocols Netgear routers support, "PPPoE" is the one to use.
