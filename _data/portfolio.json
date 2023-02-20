@@ -1,0 +1,57 @@
+[
+  { 
+    "agency": "Jollywise Media", 
+    "projects": [
+      { "name": "Inside Out", "patch": "emo1.jpg", "year": 2015, "post": "", "display": true },
+      { "name": "The World's End", "patch": "wend.jpg", "year": 2013, "post": "", "display": true },
+      { "name": "Tron Legacy", "patch": "tron.jpg", "year": 2010, "post": "", "display": true },
+      { "name": "EMI Listen Up", "patch": "listenup.jpg", "year": 2012, "post": "", "display": true }
+    ]
+  },
+  {
+    "agency": "Mind Orchard",
+    "projects": [
+      { "name": "Caboodle", "patch": "kit.png", "year": 2009, "post": "", "display": true },
+      { "name": "Demon Freak", "patch": "shan.jpg", "year": 2008, "post": "", "display": true },
+      { "name": "Postman Pat", "patch": "pat.png", "year": 2008, "post": "", "display": true },
+      { "name": "HP/Metro", "patch": "hp_sq.jpg", "year": 2007, "post": "", "display": true },
+      { "name": "Nickelodeon Boogie", "patch": "boogie.jpg", "year": 2008, "post": "", "display": true },
+      { "name": "MTV Charlie", "patch": "charlie.jpg", "year": 2008, "post": "", "display": true },
+      { "name": "Nick's Big Trip", "patch": "bigtrip.jpg", "year": 2008, "post": "", "display": true },
+      { "name": "Mind Orchard", "patch": "mindor.jpg", "year": 2007, "post": "", "display": true }
+    ]
+  },
+  {
+    "agency": "Wild Dog Design",
+    "projects": [
+      { "name": "Cox & Kings", "patch": "ck.jpg", "year": 2008, "post": "", "display": true },
+      { "name": "Carbon Responsible", "patch": "carbon.jpg", "year": 2006, "post": "", "display": true }
+    ]
+  },
+  {
+    "agency": "Big Flannel",
+    "projects": [
+      { "name": "Joshua Kessler", "patch": "jk1.jpg", "year": 2006, "post": "", "display": true }
+    ]
+  },
+  {
+    "agency": "Sum Design",
+    "projects": [
+      { "name": "Red Brick Road", "patch": "Picture-13.jpg", "year": 2010, "post": "", "display": true },
+      { "name": "Jonathan Bookalill", "patch": "jb.jpg", "year": 2011, "post": "", "display": false },
+      { "name": "Lee Jeans Make History", "patch": "lee.jpg", "year": , "post": "", "display": false },
+      { "name": "All Saints", "patch": "allsaints.jpg", "year": , "post": "", "display": true },
+      { "name": "Whistles", "patch": "whistles.jpg", "year": 2005, "post": "", "display": true },
+      { "name": "Coast", "patch": "coast.jpg", "year": , "post": "", "display": true },
+      { "name": "Mosaic Fashions", "patch": "mosaic.jpg", "year": 2005, "post": "", "display": true },
+      { "name": "Billy Bag", "patch": "billy.jpg", "year": 2005, "post": "", "display": true }
+    ]
+  },
+  {
+    "agency": "Babel Media",
+    "projects": [
+      { "name": "Johnny English", "patch": "je.jpg", "year": 2003, "post": "", "display": false },
+      { "name": "Oyster Music", "patch": "oyster.jpg", "year": 2001, "post": "", "display": false }
+    ]
+  }
+]
