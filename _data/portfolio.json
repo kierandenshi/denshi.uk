@@ -39,10 +39,10 @@
     "projects": [
       { "name": "Red Brick Road", "patch": "Picture-13.jpg", "year": 2010, "post": "", "display": true },
       { "name": "Jonathan Bookalill", "patch": "jb.jpg", "year": 2011, "post": "", "display": false },
-      { "name": "Lee Jeans Make History", "patch": "lee.jpg", "year": , "post": "", "display": false },
-      { "name": "All Saints", "patch": "allsaints.jpg", "year": , "post": "", "display": true },
+      { "name": "Lee Jeans Make History", "patch": "lee.jpg", "year": 2006, "post": "", "display": false },
+      { "name": "All Saints", "patch": "allsaints.jpg", "year": 2006, "post": "", "display": true },
       { "name": "Whistles", "patch": "whistles.jpg", "year": 2005, "post": "", "display": true },
-      { "name": "Coast", "patch": "coast.jpg", "year": , "post": "", "display": true },
+      { "name": "Coast", "patch": "coast.jpg", "year": 2005, "post": "", "display": true },
       { "name": "Mosaic Fashions", "patch": "mosaic.jpg", "year": 2005, "post": "", "display": true },
       { "name": "Billy Bag", "patch": "billy.jpg", "year": 2005, "post": "", "display": true }
     ]
