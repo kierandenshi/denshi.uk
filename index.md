@@ -8,6 +8,6 @@ Hello, my name is Kieran Denshi, a professional software developer from Lindfiel
 and have previously worked as a Senior Software Engineer at
 [Hokodo](https://www.hokodo.co/),
 [Clearscore](https://www.clearscore.com) and
-[Pollen](https://pollen.co/).
+[Pollen](https://www.bbc.co.uk/iplayer/episode/m001n327/crashed-800m-festival-fail).
 
 <br />
