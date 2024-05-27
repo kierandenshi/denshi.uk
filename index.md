@@ -4,7 +4,8 @@ title: Home
 list_title: Latest Posts
 
 ---
-Hello, my name is Kieran Denshi, a professional software developer from Lindfield, UK. 
+Hello, my name is Kieran Denshi, a professional software developer from 
+[Lindfield, UK](https://en.wikipedia.org/wiki/Lindfield%2C_West_Sussex). 
 I am a co-founder and formerly the CTO of [Teamed](https://teamed.global)
 and have previously worked as a Senior Software Engineer at
 [Hokodo](https://www.hokodo.co),
