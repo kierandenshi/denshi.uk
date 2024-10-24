@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tattoo notes
-published: true
+published: false
 ---
 
 - I prefer longer, narrow leaf shapes. 
