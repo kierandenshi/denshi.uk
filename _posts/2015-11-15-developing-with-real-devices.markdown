@@ -3,10 +3,9 @@ layout: post
 title:  "Developing with real devices"
 date:   2015-11-15 18:05:21 +0000
 categories: dns pdnsd hosts ios
+published: true
 ---
-For when you are developing locally or on a server without a domain name or accessible IP address and you want to test with a real mobile device and not a simulator, you can use your mac as a dns server and use /etc/hosts to add routing entries.
-
-Firstly, get [homebrew][1] if you don't have it. Now you can install pdnsd
+When developing locally or on a server without a domain name or accessible IP address and you want to test with real mobile devices and not a simulator, you can use your mac as a dns server and use then your local `/etc/hosts` file to add routing entries.
 
 ```sh
 brew install pdnsd
@@ -24,7 +23,7 @@ And create a conf file
 nano /usr/local/etc/pdnsd.conf
 ```
 
-And create a configuration, something like:
+And create a basic configuration, example:
 
 ```conf
 global {
@@ -68,13 +67,7 @@ Start it up with
 sudo pdnsd
 ```
 
-> If this doesn't work it probably means brew didn't create a symlink to the binary in /usr/local/bin so look in /usr/local/Cellar/pdnsd/[pdnsd version]/sbin/pdnsd and symlink it. e.g.
-
-```sh
-ln -s /usr/local/Cellar/pdnsd/1.2.9a-par/sbin/pdnsd /usr/local/bin/pdnsd
-```
-
-Now set the dns on your device to use your mac's ip address. Your phone and tablet will now be able to use your mac for dns and use any entries you make in /etc/hosts.
+Now set the dns on your device to use your mac's ip address. Your phone and tablet will now be able to use your mac for dns and use any entries you make in `/etc/hosts`.
 
 
 [1]: https://brew.sh/

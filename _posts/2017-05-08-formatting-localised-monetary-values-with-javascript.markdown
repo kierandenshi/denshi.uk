@@ -3,7 +3,7 @@ layout: post
 title:  "Formatting localised monetary values with Javascript"
 date:   2017-05-08 16:30:00 +0000
 categories: javascript money currencies localisation
-published: true
+published: false
 ---
 Displaying numbers and currencies as a part of a product description, generated quotation or as values in a checkout is likely a requirement for many apps and services. With the US-English hegemony of the web, appropriately formatting these values for users from other locales could be seen as non-essential, but if a product is truly global, I think it's worth taking the time with the details. For example, _"Forty Five Thousand Euro"_ will usually be displayed as `€45,000.00` in the UK (and US), in France and Germany the same number would be more commonly be displayed as `45 000,00 €` and `45.000,00 €` respectively. 
 

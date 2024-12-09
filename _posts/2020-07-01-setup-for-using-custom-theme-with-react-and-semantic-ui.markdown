@@ -3,6 +3,7 @@ layout: post
 title:  "Setup for using a custom theme with React and Semantic-UI"
 date:   2020-07-01 15:20:00 +0000
 categories: react css semantic
+published: false
 ---
 [Semantic UI][6], like Bootstrap, is a common way to get a UI project up and running before having a design team onboard. At some point it's going to be neccessary to make a few changes to the styling, and Semantic does have comprehensive theming capabilities. Read on for help with using themes with [the React version of Semantic][1] when you have a custom `webpack.config.js`.
 

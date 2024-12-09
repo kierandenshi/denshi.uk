@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: home
 title: Home
 list_title: Latest Posts
 
 ---
 
-
-
+<br />

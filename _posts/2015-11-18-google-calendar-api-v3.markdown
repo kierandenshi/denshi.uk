@@ -3,6 +3,7 @@ layout: post
 title:  "Google Calendar API v3"
 date:   2015-11-18 18:05:21 +0000
 categories: google python oauth
+published: false
 ---
 This month Google will shut down the public XML feeds for their calendar application, which poses a bit of a problem for anyone using that feed to display a parts of their calendar on their website. One of the sites we look after was doing exactly that - pulling the XML, then using a PHP script to parse and select the things they wanted to display on their Wordpress site. While there are a couple of solutions you can use if you are prepared to make your calendar publicly shared (e.g. https://spunmonkey.design/display-contents-google-calendar-php), however if that's not an option you are going to have to roll up your sleeves and get stuck into the api properly, which does mean authorisation using OAuth2. Fortunately, Google has a tool which makes this a less painful experience.
 
