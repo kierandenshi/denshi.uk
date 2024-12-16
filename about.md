@@ -18,5 +18,7 @@ cherry picked list of "career achievements":
 - **Senior Software Engineer** at [Pollen](https://www.bbc.co.uk/iplayer/episode/m001n327/crashed-800m-festival-fail)
 - **Senior Developer** at [Babel Media](https://www.mobygames.com/company/6736/babel-media-ltd/)
 
+### Here are some ways to contact them
+By email `cargo-refuse-mower@duck.com` 
 
 
