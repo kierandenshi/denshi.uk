@@ -82,13 +82,13 @@ mount -a
 
 This will mount the devices. For ext4 formatted devices it may be required to set filesystem permissions for the user. This should only be required once (i.e. not every time the drive is mounted). If the device is not empty it may be better to not do this recursively (omit the `-R` switch) to change only the ownership of the mount point and leave the rest of the device's filesystem permissions intact.
 <br />
-**Note that the following command will recursively set permissions across the whole of the device, so one must think before making copypasta if the device already contains data**
+**Note that the following command will recursively set permissions across the whole of the device, so one must think before making copypasta if the device already contains data.**
 <br />
 With `sudo` or as root
 
 ```sh
-chown -R kdenshi:kdenshi /home/kierand/Storage
-chown -R kdenshi:kdenshi /home/kierand/Recordings
+chown -R kdenshi:kdenshi /home/kdenshi/Storage
+chown -R kdenshi:kdenshi /home/kdenshi/Recordings
 ```
 
 All drives should now automatically mount to the mount points specified and be fully accessible to the user.   
