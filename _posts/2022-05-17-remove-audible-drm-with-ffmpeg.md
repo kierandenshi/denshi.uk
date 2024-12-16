@@ -7,7 +7,7 @@ published: true
 Audible `.aax` files contain DRM that prevent them being played on older devices (e.g. classic iPod). 
 An open bookmarkable audio filetype like `.m4b` can be played on almost any digital audio device.  
 
-A straight conversion between filetypes with ffmpeg is easy - for example
+A straight conversion between filetypes with [ffmpeg](https://ffmpeg.org/) is easy - for example
 ```
 ffmpeg -i 1984.aax -c copy 1984.m4b
 ```
