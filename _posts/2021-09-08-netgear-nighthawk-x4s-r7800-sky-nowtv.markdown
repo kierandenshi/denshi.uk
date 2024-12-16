@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using the Netgear Nighthawk X4S R7800 with NowTV/Sky broadband
+title: Netgear Nighthawk routers and NowTV / Sky broadband
 date: 2021-09-08T16:30:00.000+00:00
 categories: routers netgear nowtv sky broadband
 published: true

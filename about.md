@@ -1,19 +1,22 @@
 ---
 layout: page
 title: About
-published: false
+published: true
 ---
-Hello, my name is Kieran Denshi and I'm an autodidact software developer from Lindfield, UK. 
+# TL/DR;
+Kieran Denshi
+is an independent game developer and writer
+from [Lindfield, UK](https://en.wikipedia.org/wiki/Lindfield%2C_West_Sussex).
 
-I am a polyglot developer, but these days I mostly write code using Ruby, Python and Javascript. 
+### Here are some things that they did for money
+From what could charitably be called a career as a
+professional software developer, this is their own 
+cherry picked list of "career achievements":
+- **Co-founder and CTO** of [Teamed](https://teamed.global)
+- **Senior Software Engineer** at [Hokodo](https://www.hokodo.co)
+- **Senior Software Engineer** at [Clearscore](https://www.clearscore.com)
+- **Senior Software Engineer** at [Pollen](https://www.bbc.co.uk/iplayer/episode/m001n327/crashed-800m-festival-fail)
+- **Senior Developer** at [Babel Media](https://www.mobygames.com/company/6736/babel-media-ltd/)
 
-I build applications using Sinatra, Rails and NodeJS.
 
-I make video games with Pygame, Ruby2d and Dragon Ruby.
 
-I am a co-founder and formerly the CTO of [Teamed](https://teamed.global).
-
-I have previously worked as a Senior Software Engineer at [Hokodo](https://www.hokodo.co/),
-[Clearscore](https://www.clearscore.com) and [Pollen](https://pollen.co/)
-
-[This is my LinkedIn profile](https://www.linkedin.com/in/kierandenshi/)
