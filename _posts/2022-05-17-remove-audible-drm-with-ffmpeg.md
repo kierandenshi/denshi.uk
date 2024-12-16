@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remove Audible DRM with ffmpeg"
+title: "Use ffmpeg to remove Audible DRM"
 categories: amazon drm audible media audiobook
 published: true
 ---
