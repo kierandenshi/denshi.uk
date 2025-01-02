@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Home
+_title: Home
 list_title: Latest Posts
 
 ---
+
 
